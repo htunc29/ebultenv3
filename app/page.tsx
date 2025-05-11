@@ -21,7 +21,7 @@ export default function Home() {
           Transfer Ofisi E-Bülteni
         </span>
         <div className={subtitle({ class: "mt-4" })}>
-          Gümüşhane Teknoloji Transfer Ofisi&#39;nin aylık bültenlerini buradan inceleyebilirsiniz.
+          Gümüşhane Teknoloji Transfer Ofisi&#39;nin  bültenlerini buradan inceleyebilirsiniz.
         </div>
       </div>
 
